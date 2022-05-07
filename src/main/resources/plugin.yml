@@ -1,0 +1,7 @@
+name: PlaytimeGiveaway
+version: '${project.version}'
+main: net.pistonmaster.playtimegiveaway.PlaytimeGiveaway
+commands:
+  playtimegiveaway:
+    description: Checks how long you have played on this server
+    usage: /playtimegiveaway
